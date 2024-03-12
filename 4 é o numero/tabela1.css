@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #000;
+    padding: 2vh;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+   
+}
+table thead tr{
+    
+    background-color: black;
+    color: #ffff;
+
+}
+table tbody tr td {
+    border: 1px solid #000;
+
+}
+
+table #alter tr.dif td {
+    background-color: #f2f2f2;
+
+}
